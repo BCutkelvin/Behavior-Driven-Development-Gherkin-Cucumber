@@ -2,9 +2,6 @@
  * 
 Bryan Cutkevin
 5/10/2015
-SCEA Interview - Software Development Engineer in Test  (SDET).
-2207 Bridgepointe Parkway  San Mateo, CA 94404 (650) 655 8000 
-
 
 JUnit Test Runner Class Example
 -This is the test class to run the BDD test. This class will run our Cucumber tests
