@@ -1,9 +1,7 @@
 /*
 Bryan Cutkevin
 5/10/2015
-SCEA Interview - Software Development Engineer in Test  (SDET).
-2207 Bridgepointe Parkway  San Mateo, CA 94404 (650) 655 8000  
- 
+
 Step Definition methods example
 -This is a Step Definition class where methods designation with annotations are 
  followed by a "pattern" used to link the Step Definition to all the matching. 
