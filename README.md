@@ -1,4 +1,4 @@
-# web_automation_examples
+# BDD Gherkin Cucumber web automation example
 All web automation examples written found here
 
 Bryan Cutkevin
