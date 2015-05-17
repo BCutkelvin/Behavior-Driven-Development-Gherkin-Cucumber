@@ -2,8 +2,6 @@
  * 
 Bryan Cutkevin
 5/10/2015
-SCEA Interview - Software Development Engineer in Test  (SDET).
-2207 Bridgepointe Parkway  San Mateo, CA 94404 (650) 655 8000 
 
 BDD Automation Script Code Example
 -This is a sample automation script that is a simple test in Cucumber using:  
